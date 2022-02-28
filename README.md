@@ -7,6 +7,8 @@
 
 ![Ribas's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenribas&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellenribas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso/aprendo diariamente 
 
 <div>
