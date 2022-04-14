@@ -19,7 +19,7 @@
   <img align='center' alt='Redux' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
   <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' />
   <img align='center' alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
-  
+  <img align='center' alt='ReactNative' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
   	
    </div><br />
  Apaixonada por tecnologia, estudante de Desenvolvimento Web na Trybe e fascinada por livros 📚
