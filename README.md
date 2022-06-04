@@ -7,9 +7,8 @@ Web Developer Full Stack
 ------------------------
  <h3 align='center'>About me</h3>
 ---
- ![code](/images/Developer.gif)
-----
 
+ ![code](/images/Developer.gif)
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [tchwtrabalho@gmail.com](mailto:tchwtrabalho@gmail.com)
