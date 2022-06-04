@@ -1,4 +1,4 @@
-Hi 👋 My name is Hellen Ribas
+WELCOME TO MY GITHUB 👋 
 =============================
 
 ![hi](/images/banner.png)
