@@ -6,6 +6,7 @@ Hi 👋 My name is Hellen Ribas
 Web Developer Full Stack
 ------------------------
  <h3 align='center'>About me</h3>
+---
  ![code](/images/Developer.gif)
 ----
 
