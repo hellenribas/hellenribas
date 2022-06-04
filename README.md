@@ -7,6 +7,8 @@ Web Developer Full Stack
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [tchwtrabalho@gmail.com](mailto:tchwtrabalho@gmail.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenribas)](https://github.com/hellenribas/github-readme-stats)
+
 ### Skills
 
 <p align="left">
