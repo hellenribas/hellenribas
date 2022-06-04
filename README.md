@@ -1,14 +1,20 @@
 Hi 👋 My name is Hellen Ribas
 =============================
 
+![hi](/banner.png)
+
 Web Developer Full Stack
 ------------------------
+ ![code](/Developer.gif)
+----
+ About Me:
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [tchwtrabalho@gmail.com](mailto:tchwtrabalho@gmail.com)
 
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
