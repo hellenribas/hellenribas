@@ -1,11 +1,11 @@
 Hi 👋 My name is Hellen Ribas
 =============================
 
-![hi](/banner.png)
+![hi](/images/banner.png)
 
 Web Developer Full Stack
 ------------------------
- ![code](/Developer.gif)
+ ![code](/images/Developer.gif)
 ----
  About Me:
 
