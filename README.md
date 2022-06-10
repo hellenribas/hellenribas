@@ -1,4 +1,4 @@
-WELCOME TO MY GITHUB 👋 
+WELCOME 👋 
 =============================
 
 ![hi](/images/banner.png)
