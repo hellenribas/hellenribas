@@ -20,13 +20,7 @@ Web Developer Full Stack
 
 
 > ### **Sobre mim**: 
-> A Trybe me introduziu na tecnologia e desde então minha paixão por desenvolvimento web full stack cresce a cada novo projeto desenvolvido.
-
->Ao longo da minha trajetória, prestei concursos para piloto da força aérea porque queria impactar a vida das pessoas através de ações voluntárias, quando conheci a Trybe e decidi mudar a rota e entrei na área da tecnologia fui em busca desse mesmo ideal. Percebi que a tecnologia une, gera um senso de colaboração, de pertencimento que atrai muitas pessoas, inclusive a mim, que acredito muito no poder de transformação que a tecnologia gera na vida das pessoas.
-
->Como estudante da Trybe, finalizei o módulo de Front-End e estou no módulo de Back-End, aprendi e desenvolvi projetos individuais e em grupo utilizando **HTML, CSS, JavaScript, React, Redux, Testes Automatizados (RTL e JEST), MYSQL, Node, GIT e GITHUB, além de aprender metodologias ágeis, como Scrum e Kanban**.
-
->Hoje, faço parte do programa de Summer de Instrução na Trybe em que atuo como monitora e que tem me ajudado muito a exercitar, principalmente, minha comunicação e colaboração.
+> A Trybe me introduziu na tecnologia e desde então minha paixão por desenvolvimento web full stack cresce a cada novo projeto desenvolvido. Ao longo da minha trajetória, prestei concursos para piloto da força aérea porque queria impactar a vida das pessoas através de ações voluntárias, quando conheci a Trybe e decidi mudar a rota e entrei na área da tecnologia fui em busca desse mesmo ideal. Percebi que a tecnologia une, gera um senso de colaboração, de pertencimento que atrai muitas pessoas, inclusive a mim, que acredito muito no poder de transformação que a tecnologia gera na vida das pessoas. Como estudante da Trybe, finalizei o módulo de Front-End e estou no módulo de Back-End, aprendi e desenvolvi projetos individuais e em grupo utilizando **HTML, CSS, JavaScript, React, Redux, Testes Automatizados (RTL e JEST), MYSQL, Node, GIT e GITHUB, além de aprender metodologias ágeis, como Scrum e Kanban**. Hoje, faço parte do programa de Summer de Instrução na Trybe em que atuo como monitora e que tem me ajudado muito a exercitar, principalmente, minha comunicação e colaboração.
 
 
 
