@@ -3,11 +3,11 @@ WELCOME 👋
 
 ![hi](/images/banner.png)
 
-Web Developer Full Stack
-------------------------
-
 <div align="center">
 
+ Web Developer Full Stack
+------------------------
+ 
  📫 Email: **tchwtrabalho@gmail.com**
 
 <h3>Connect with me:</h3>
