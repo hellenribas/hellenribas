@@ -8,7 +8,7 @@ Web Developer Full Stack
 
 <div align="center">
 
-> 📫 Email: **tchwtrabalho@gmail.com**
+ 📫 Email: **tchwtrabalho@gmail.com**
 
 <h3>Connect with me:</h3>
 <p>
