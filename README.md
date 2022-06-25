@@ -6,41 +6,20 @@ WELCOME 👋
 Web Developer Full Stack
 ------------------------
 
->* 🌍  Moro no Rio de Janeiro
->* ✉️  Email para contato: [tchwtrabalho@gmail.com](mailto:tchwtrabalho@gmail.com)
+<div align="center">
 
-<p aligh="center">
- >![code](/images/Developer.gif) 
- </p>
+- 📫 Email **tchwtrabalho@gmail.com**
 
-
-> ### **Sobre mim**: 
-> A Trybe me introduziu na tecnologia e desde então minha paixão por desenvolvimento web full stack cresce a cada novo projeto desenvolvido. Ao longo da minha trajetória, prestei concursos para piloto da força aérea porque queria impactar a vida das pessoas através de ações voluntárias, quando conheci a Trybe e decidi mudar a rota e entrei na área da tecnologia fui em busca desse mesmo ideal. Percebi que a tecnologia une, gera um senso de colaboração, de pertencimento que atrai muitas pessoas, inclusive a mim, que acredito muito no poder de transformação que a tecnologia gera na vida das pessoas. Como estudante da Trybe, finalizei o módulo de **Front-End** e estou no módulo de **Back-End**, aprendi e desenvolvi projetos individuais e em grupo utilizando **HTML, CSS, JavaScript, React, Redux, Testes Automatizados (RTL e JEST), MYSQL, Node, GIT e GITHUB**, além de aprender **metodologias ágeis, como Scrum e Kanban**. Hoje, faço parte do programa de Summer de Instrução na Trybe em que atuo como monitora e que tem me ajudado muito a exercitar, principalmente, minha comunicação e colaboração.
-
-
-
-
-<h2 align="center">SKILLS</h2>
-
-
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hellenribas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hellenribas" height="30" width="40" /></a>
 </p>
 
------
-
-<h3 align="center">SOCIAL</h3>
-
-<p align="center"><a href="https://www.linkedin.com/in/hellenribas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
 <h2 align="center">My GitHub Stats</h2>
 
 <a href="http://www.github.com/hellenribas"><img src="https://github-readme-stats.vercel.app/api?username=hellenribas&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=22272e&hide_border=true&show_icons=true" alt="hellenribas's GitHub stats" target=_blank /></a><span><a href="https://github.com/hellenribas" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellenribas&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a></span>
+
+</div>
