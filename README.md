@@ -5,14 +5,12 @@ WELCOME 👋
 
 Web Developer Full Stack
 ------------------------
- <h3 align="center">About me</h3>
 
-* 🌍  I'm based in Rio de Janeiro
-* ✉️  You can contact me at [tchwtrabalho@gmail.com](mailto:tchwtrabalho@gmail.com)
+>* 🌍  Moro no Rio de Janeiro
+>* ✉️  Email para contato: [tchwtrabalho@gmail.com](mailto:tchwtrabalho@gmail.com)
 
 <p aligh="center">
-
- ![code](/images/Developer.gif) 
+ >![code](/images/Developer.gif) 
  </p>
 
 
